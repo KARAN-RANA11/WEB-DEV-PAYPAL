@@ -1,2 +1,2 @@
 # WEB-DEV-PAYPAL
-AUTHER-Karan Rana
+AUTH0R-Karan Rana
